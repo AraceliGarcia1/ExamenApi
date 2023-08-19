@@ -7,7 +7,9 @@ namespace MyExam
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext>options):base(options){
 
         }
-        public DbSet<Propietario>? Propietarios { get; set; } 
+        public DbSet<Propietario>? Propietarios { get; set; }
+        public DbSet<Paciente>? Paciente { get; set; } 
+        
         public DbSet<Medicamento>? Medicamentos { get; set; } 
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
