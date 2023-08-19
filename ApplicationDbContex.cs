@@ -8,7 +8,7 @@ namespace MyExam
 
         }
         public DbSet<Propietario>? Propietarios { get; set; } 
-
+        public DbSet<Medicamento>? Medicamentos { get; set; } 
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
