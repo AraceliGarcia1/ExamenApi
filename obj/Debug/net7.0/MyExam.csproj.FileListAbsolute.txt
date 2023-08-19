@@ -1,0 +1,86 @@
+C:\Users\CA3\Documents\MyExam\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\CA3\Documents\MyExam\bin\Debug\net7.0\appsettings.json
+C:\Users\CA3\Documents\MyExam\bin\Debug\net7.0\MyExam.exe
+C:\Users\CA3\Documents\MyExam\bin\Debug\net7.0\MyExam.deps.json
+C:\Users\CA3\Documents\MyExam\bin\Debug\net7.0\MyExam.runtimeconfig.json
+C:\Users\CA3\Documents\MyExam\bin\Debug\net7.0\MyExam.dll
+C:\Users\CA3\Documents\MyExam\bin\Debug\net7.0\MyExam.pdb
+C:\Users\CA3\Documents\MyExam\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\CA3\Documents\MyExam\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\CA3\Documents\MyExam\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\CA3\Documents\MyExam\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\CA3\Documents\MyExam\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\CA3\Documents\MyExam\obj\Debug\net7.0\MyExam.csproj.AssemblyReference.cache
+C:\Users\CA3\Documents\MyExam\obj\Debug\net7.0\MyExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CA3\Documents\MyExam\obj\Debug\net7.0\MyExam.AssemblyInfoInputs.cache
+C:\Users\CA3\Documents\MyExam\obj\Debug\net7.0\MyExam.AssemblyInfo.cs
+C:\Users\CA3\Documents\MyExam\obj\Debug\net7.0\MyExam.csproj.CoreCompileInputs.cache
+C:\Users\CA3\Documents\MyExam\obj\Debug\net7.0\MyExam.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\CA3\Documents\MyExam\obj\Debug\net7.0\MyExam.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CA3\Documents\MyExam\obj\Debug\net7.0\staticwebassets\msbuild.MyExam.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\CA3\Documents\MyExam\obj\Debug\net7.0\staticwebassets\msbuild.build.MyExam.props
+C:\Users\CA3\Documents\MyExam\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MyExam.props
+C:\Users\CA3\Documents\MyExam\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MyExam.props
+C:\Users\CA3\Documents\MyExam\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\CA3\Documents\MyExam\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\CA3\Documents\MyExam\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\CA3\Documents\MyExam\obj\Debug\net7.0\scopedcss\bundle\MyExam.styles.css
+C:\Users\CA3\Documents\MyExam\obj\Debug\net7.0\MyExam.csproj.CopyComplete
+C:\Users\CA3\Documents\MyExam\obj\Debug\net7.0\MyExam.dll
+C:\Users\CA3\Documents\MyExam\obj\Debug\net7.0\refint\MyExam.dll
+C:\Users\CA3\Documents\MyExam\obj\Debug\net7.0\MyExam.pdb
+C:\Users\CA3\Documents\MyExam\obj\Debug\net7.0\MyExam.genruntimeconfig.cache
+C:\Users\CA3\Documents\MyExam\obj\Debug\net7.0\ref\MyExam.dll
+C:\Users\CA3\Documents\MyExam\bin\Debug\net7.0\Humanizer.dll
+C:\Users\CA3\Documents\MyExam\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\CA3\Documents\MyExam\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\CA3\Documents\MyExam\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\CA3\Documents\MyExam\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\CA3\Documents\MyExam\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\CA3\Documents\MyExam\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\CA3\Documents\MyExam\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\CA3\Documents\MyExam\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\CA3\Documents\MyExam\bin\Debug\net7.0\System.CodeDom.dll
+C:\Contenido Escritorio\Documents\MyExam\bin\Debug\net7.0\appsettings.Development.json
+C:\Contenido Escritorio\Documents\MyExam\bin\Debug\net7.0\appsettings.json
+C:\Contenido Escritorio\Documents\MyExam\bin\Debug\net7.0\MyExam.exe
+C:\Contenido Escritorio\Documents\MyExam\bin\Debug\net7.0\MyExam.deps.json
+C:\Contenido Escritorio\Documents\MyExam\bin\Debug\net7.0\MyExam.runtimeconfig.json
+C:\Contenido Escritorio\Documents\MyExam\bin\Debug\net7.0\MyExam.dll
+C:\Contenido Escritorio\Documents\MyExam\bin\Debug\net7.0\MyExam.pdb
+C:\Contenido Escritorio\Documents\MyExam\bin\Debug\net7.0\Humanizer.dll
+C:\Contenido Escritorio\Documents\MyExam\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Contenido Escritorio\Documents\MyExam\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Contenido Escritorio\Documents\MyExam\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Contenido Escritorio\Documents\MyExam\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Contenido Escritorio\Documents\MyExam\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Contenido Escritorio\Documents\MyExam\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Contenido Escritorio\Documents\MyExam\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Contenido Escritorio\Documents\MyExam\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Contenido Escritorio\Documents\MyExam\bin\Debug\net7.0\MySqlConnector.dll
+C:\Contenido Escritorio\Documents\MyExam\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Contenido Escritorio\Documents\MyExam\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Contenido Escritorio\Documents\MyExam\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Contenido Escritorio\Documents\MyExam\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Contenido Escritorio\Documents\MyExam\bin\Debug\net7.0\System.CodeDom.dll
+C:\Contenido Escritorio\Documents\MyExam\obj\Debug\net7.0\MyExam.csproj.AssemblyReference.cache
+C:\Contenido Escritorio\Documents\MyExam\obj\Debug\net7.0\MyExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Contenido Escritorio\Documents\MyExam\obj\Debug\net7.0\MyExam.AssemblyInfoInputs.cache
+C:\Contenido Escritorio\Documents\MyExam\obj\Debug\net7.0\MyExam.AssemblyInfo.cs
+C:\Contenido Escritorio\Documents\MyExam\obj\Debug\net7.0\MyExam.csproj.CoreCompileInputs.cache
+C:\Contenido Escritorio\Documents\MyExam\obj\Debug\net7.0\MyExam.MvcApplicationPartsAssemblyInfo.cs
+C:\Contenido Escritorio\Documents\MyExam\obj\Debug\net7.0\MyExam.MvcApplicationPartsAssemblyInfo.cache
+C:\Contenido Escritorio\Documents\MyExam\obj\Debug\net7.0\staticwebassets\msbuild.MyExam.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Contenido Escritorio\Documents\MyExam\obj\Debug\net7.0\staticwebassets\msbuild.build.MyExam.props
+C:\Contenido Escritorio\Documents\MyExam\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MyExam.props
+C:\Contenido Escritorio\Documents\MyExam\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MyExam.props
+C:\Contenido Escritorio\Documents\MyExam\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Contenido Escritorio\Documents\MyExam\obj\Debug\net7.0\staticwebassets.build.json
+C:\Contenido Escritorio\Documents\MyExam\obj\Debug\net7.0\staticwebassets.development.json
+C:\Contenido Escritorio\Documents\MyExam\obj\Debug\net7.0\scopedcss\bundle\MyExam.styles.css
+C:\Contenido Escritorio\Documents\MyExam\obj\Debug\net7.0\MyExam.csproj.CopyComplete
+C:\Contenido Escritorio\Documents\MyExam\obj\Debug\net7.0\MyExam.dll
+C:\Contenido Escritorio\Documents\MyExam\obj\Debug\net7.0\refint\MyExam.dll
+C:\Contenido Escritorio\Documents\MyExam\obj\Debug\net7.0\MyExam.pdb
+C:\Contenido Escritorio\Documents\MyExam\obj\Debug\net7.0\MyExam.genruntimeconfig.cache
+C:\Contenido Escritorio\Documents\MyExam\obj\Debug\net7.0\ref\MyExam.dll
